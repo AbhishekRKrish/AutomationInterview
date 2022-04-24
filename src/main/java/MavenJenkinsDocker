@@ -1,0 +1,10 @@
+1) Maven cycle - each one
+2) Jenkins - pipeline ( two ways)
+3) Docker commands
+4) Git commands -> PR Flow
+5) Git merge conflict , how to resolve ?
+6) Jenkins schedule
+7) Jenkins reporting integrations
+8) Maven plugins -> Failsafe , surefire etc
+9) How to create a plug in , jar etc
+10) Extent reports , allure integration with jenkins

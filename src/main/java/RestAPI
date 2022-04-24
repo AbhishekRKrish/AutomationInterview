@@ -1,0 +1,17 @@
+1) Patch VS PUT
+2) PUT vs Post
+3) http response codes ?
+4) 207 - scenario
+5) 401 vs 403
+6) 500 , 504 , 204 , 200 etc scenarios
+7) put idempotent scenarios
+8) REST assured - write a test case
+9) Base uri ?
+10) Authorization - oauth -1.0 vs 2.0
+11) How to automate postman requests
+12) collection in postman
+13) Jackson object mapper
+14) Dynamic JSON handling
+15) REST VS soap
+16) Microservices working ?
+17) HTTP vs HTTPS

@@ -1,0 +1,29 @@
+1) OOPS
+2) Class , Object
+3) String - immutable
+4) String methods
+5) Collection and Collections
+6) HashMap working
+7) LinkedList working
+8) Runtime exceptions
+9) Classcast exception
+10) Override vs overload
+    can we override or overload
+    1) private
+    2) static etc
+    3) constructor
+11) Abstraction vs Interface *( java 8, java 9 Interface changes)
+12 )  String builder vs StringBuffer
+13) ThreadLocal variables
+14) Synchronization
+15) Garbage collection ( finally)
+17) try catch finally
+    try and finally wil it work ?
+18 ) NAN
+     Arithmetic exception
+     Infinity
+19) List vs Set
+20) HashMap vs Hashtable
+21) is a and Has a relationship with examples
+22) Comparator and comparable with examples
+23) Error vs Exception
